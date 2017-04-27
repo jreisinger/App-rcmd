@@ -1,0 +1,16 @@
+{{$NEXT}}
+
+    - Add (Dist::Zilla::Plugin::)NextRelease to dist.ini
+    - Add @Git to dist.ini (http://dzil.org/tutorial/vcs-git.html)
+
+0.003     2017-04-26
+
+    - Add Changes (this) file
+
+0.002     2017-04-26
+
+    - Improve docs
+
+0.001     2017-04-25
+
+    - Genesis
