@@ -2,6 +2,7 @@
 
     - Add (Dist::Zilla::Plugin::)NextRelease to dist.ini
     - Add @Git to dist.ini (http://dzil.org/tutorial/vcs-git.html)
+    - Add (Dist::Zilla::Plugin::Git::)NextVersion to dist.ini
 
 0.003     2017-04-26
 
