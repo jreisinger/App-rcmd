@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+    - add ReadmeAnyFromPod to dist.ini
+
 0.004     2017-04-28 07:43:04+00:00 UTC
 
     - Add (Dist::Zilla::Plugin::)NextRelease to dist.ini
