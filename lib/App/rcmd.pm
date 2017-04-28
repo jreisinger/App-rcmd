@@ -7,6 +7,11 @@ package App::rcmd;
 
 This is a stub module, see F<rcmd> script (F<bin/rcmd>) for details.
 
+=head1 INSTALLATION
+
+In case you don't want to use a standard CPAN module installation tool (like
+F<cpan> or F<cpanm>) it's enough to copy/paste or download the F<rcmd> script.
+
 =cut
 
 1;
